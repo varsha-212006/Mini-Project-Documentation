@@ -77,6 +77,8 @@ java Main
 
 ### Home Page
 ![Home](images/home.png)
+C:\Users\25265A0523\Downloads\home.avif
+
 
 ### Login Page
 ![Login](images/login.png)
